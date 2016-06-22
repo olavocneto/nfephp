@@ -1,4 +1,5 @@
 NFSe
+<<<<<<< HEAD
 ===============
 
 Atenção : As classes aqui disponibilizadas são apenas rascunhos e não foram testadas e nem são mantidas ativamente.
@@ -16,4 +17,12 @@ Ou seja, é muito mais simples usar a interface disponibilizada por eles para fa
 Portanto não vamos mais dedicar qualquer tempo a manter ou melhorar qualquer uma dessas classes.
 
 Equipe NFePHP
+=======
+=====
+
+Não está sendo mantida por nenhum colaborador
+
+Estamos no aguardo de colaboradores interessados em refatorar, testar e manter essas classes
+
+>>>>>>> 2df079f4a6cdd3dbc8add2426e1f0dad22721a1d
 
